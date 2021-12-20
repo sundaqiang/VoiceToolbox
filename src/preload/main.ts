@@ -1,0 +1,5 @@
+const {join} = require('path')
+const v8 = require('v8')
+require('bytenode')
+v8.setFlagsFromString('--no-lazy')
+require(join(__dirname, './index.jsc'))

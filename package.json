@@ -1,0 +1,78 @@
+{
+  "name": "VoiceToolbox",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ci010/electron-vue-next.git"
+  },
+  "scripts": {
+    "dev:docs": "node scripts/dev.docs.js",
+    "dev": "node scripts/dev.js",
+    "build": "node scripts/build.js",
+    "build:dir": "cross-env BUILD_TARGET=dir node scripts/build.js",
+    "build:lite": "cross-env BUILD_TARGET=lite node scripts/build.js",
+    "build:production": "cross-env BUILD_TARGET=production node scripts/build.js",
+    "lint": "eslint --ext .ts,.vue,.js src scripts",
+    "lint:fix": "npm run lint -- --fix",
+    "postinstall": "node ./scripts/dev.install.js"
+  },
+  "author": {
+    "email": "example@email.com",
+    "name": "example"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^1.3.0",
+    "animate.css": "^4.1.1",
+    "asarmor": "^2.0.0",
+    "bytenode": "^1.3.4",
+    "electron-store": "^8.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^10.0.0",
+    "got": "^11.8.3",
+    "howler": "^2.2.3",
+    "slash": "^4.0.0",
+    "vue": "^3.2.24",
+    "vue3-aplayer": "^1.7.3",
+    "vue-router": "^4.0.12"
+  },
+  "external": [
+    "@ffmpeg-installer/ffmpeg",
+    "@ffprobe-installer/ffprobe",
+    "fluent-ffmpeg",
+    "fs-extra",
+    "bytenode",
+    "got",
+    "electron-store"
+  ],
+  "devDependencies": {
+    "@rollup/plugin-alias": "^3.1.8",
+    "@rollup/plugin-commonjs": "^21.0.1",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^13.1.1",
+    "@rollup/plugin-typescript": "^8.3.0",
+    "@vicons/antd": "^0.11.0",
+    "@vitejs/plugin-vue": "^2.0.1",
+    "@vue/compiler-sfc": "^3.2.24",
+    "builtin-modules": "^3.2.0",
+    "chalk": "^4.1.2",
+    "cross-env": "^7.0.3",
+    "electron": "^16.0.5",
+    "electron-builder": "^22.14.5",
+    "electron-context-menu": "^3.1.1",
+    "esbuild": "^0.14.5",
+    "extract-zip": "^2.0.1",
+    "jsonfile": "^6.1.0",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "magic-string": "^0.25.7",
+    "naive-ui": "^2.23.0",
+    "rollup": "^2.60.2",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.4",
+    "vite": "^2.7.3"
+  }
+}

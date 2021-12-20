@@ -1,0 +1,474 @@
+{
+  "general": {
+    "label": "通用",
+    "speakers": [
+      {
+        "sampleRate": 16000,
+        "speaker": "艾琪",
+        "speakerId": "aiqi",
+        "speechType": "温柔女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾诚",
+        "speakerId": "aicheng",
+        "speechType": "标准男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾佳",
+        "speakerId": "aijia",
+        "speechType": "标准女声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "思琪",
+        "speakerId": "siqi",
+        "speechType": "温柔女声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "思佳",
+        "speakerId": "sijia",
+        "speechType": "标准女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "马树",
+        "speakerId": "mashu",
+        "speechType": "儿童剧男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "悦儿",
+        "speakerId": "yuer",
+        "speechType": "儿童剧女声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "若兮",
+        "speakerId": "ruoxi",
+        "speechType": "温柔女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾达",
+        "speakerId": "aida",
+        "speechType": "标准男声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "思诚",
+        "speakerId": "sicheng",
+        "speechType": "标准男声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "宁儿",
+        "speakerId": "ninger",
+        "speechType": "标准女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "小云",
+        "speakerId": "xiaoyun",
+        "speechType": "标准女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "小刚",
+        "speakerId": "xiaogang",
+        "speechType": "标准男声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "瑞琳",
+        "speakerId": "ruilin",
+        "speechType": "标准女声"
+      }
+    ]
+  },
+  "service": {
+    "label": "客服",
+    "speakers": [
+      {
+        "sampleRate": 16000,
+        "speaker": "艾夏",
+        "speakerId": "aixia",
+        "speechType": "亲和女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾悦",
+        "speakerId": "aiyue",
+        "speechType": "温柔女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾雅",
+        "speakerId": "aiya",
+        "speechType": "严厉女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾婧",
+        "speakerId": "aijing",
+        "speechType": "严厉女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾美",
+        "speakerId": "aimei",
+        "speechType": "甜美女声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "思悦",
+        "speakerId": "siyue",
+        "speechType": "温柔女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾娜",
+        "speakerId": "Aina",
+        "speechType": "浙普女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾硕",
+        "speakerId": "aishuo",
+        "speechType": "自然男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾雨",
+        "speakerId": "aiyu",
+        "speechType": "自然女声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "小美",
+        "speakerId": "xiaomei",
+        "speechType": "甜美女声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "伊娜",
+        "speakerId": "yina",
+        "speechType": "浙普女声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "思婧",
+        "speakerId": "sijing",
+        "speechType": "严厉女声"
+      }
+    ]
+  },
+  "live": {
+    "label": "直播",
+    "speakers": [
+      {
+        "sampleRate": 16000,
+        "speaker": "老妹",
+        "speakerId": "laomei",
+        "speechType": "吆喝女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "老铁",
+        "speakerId": "laotie",
+        "speechType": "东北老铁"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "小仙",
+        "speakerId": "xiaoxian",
+        "speechType": "亲切女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "柜姐",
+        "speakerId": "guijie",
+        "speechType": "亲切女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Stella",
+        "speakerId": "stella",
+        "speechType": "知性女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "猫小美",
+        "speakerId": "maoxiaomei",
+        "speechType": "活力女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "巧薇",
+        "speakerId": "qiaowei",
+        "speechType": "卖场广播"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾伦",
+        "speakerId": "ailun",
+        "speechType": "悬疑解说"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾飞",
+        "speakerId": "aifei",
+        "speechType": "激昂解说"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "亚群",
+        "speakerId": "yaqun",
+        "speechType": "卖场广播"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Stanley",
+        "speakerId": "stanley",
+        "speechType": "沉稳男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Kenny",
+        "speakerId": "kenny",
+        "speechType": "温暖男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Rosa",
+        "speakerId": "rosa",
+        "speechType": "自然女声"
+      }
+    ]
+  },
+  "chenparty": {
+    "label": "童声",
+    "speakers": [
+      {
+        "sampleRate": 16000,
+        "speaker": "艾彤",
+        "speakerId": "aitong",
+        "speechType": "儿童音"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾薇",
+        "speakerId": "aiwei",
+        "speechType": "萝莉女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "杰力豆",
+        "speakerId": "jielidou",
+        "speechType": "治愈童声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "小北",
+        "speakerId": "xiaobei",
+        "speechType": "萝莉女声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "思彤",
+        "speakerId": "sitong",
+        "speechType": "儿童音"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾宝",
+        "speakerId": "aibao",
+        "speechType": "萝莉女声"
+      }
+    ]
+  },
+  "english": {
+    "label": "英文",
+    "speakers": [
+      {
+        "sampleRate": 16000,
+        "speaker": "ava",
+        "speakerId": "ava",
+        "speechType": "美式女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Luca",
+        "speakerId": "Luca",
+        "speechType": "英音男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Luna",
+        "speakerId": "Luna",
+        "speechType": "英音女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Emily",
+        "speakerId": "Emily",
+        "speechType": "英音女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Eric",
+        "speakerId": "Eric",
+        "speechType": "英音男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Annie",
+        "speakerId": "annie",
+        "speechType": "美语女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Andy",
+        "speakerId": "Andy",
+        "speechType": "美音男声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "William",
+        "speakerId": "William",
+        "speechType": "英音男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Abby",
+        "speakerId": "Abby",
+        "speechType": "美音女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Lydia",
+        "speakerId": "Lydia",
+        "speechType": "英中双语"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "Olivia",
+        "speakerId": "Olivia",
+        "speechType": "英音女声"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "Wendy",
+        "speakerId": "Wendy",
+        "speechType": "英音女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Harry",
+        "speakerId": "Harry",
+        "speechType": "英音男声"
+      }
+    ]
+  },
+  "localism": {
+    "label": "方言",
+    "speakers": [
+      {
+        "sampleRate": 16000,
+        "speaker": "佳佳",
+        "speakerId": "jiajia",
+        "speechType": "粤语女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "大虎",
+        "speakerId": "dahu",
+        "speechType": "东北话男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "艾侃",
+        "speakerId": "aikan",
+        "speechType": "天津话男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "桃子",
+        "speakerId": "taozi",
+        "speechType": "粤语女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "青青",
+        "speakerId": "qingqing",
+        "speechType": "台湾话女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "翠姐",
+        "speakerId": "cuijie",
+        "speechType": "东北话女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "小泽",
+        "speakerId": "xiaoze",
+        "speechType": "湖南重口音"
+      },
+      {
+        "sampleRate": 24000,
+        "speaker": "姗姗",
+        "speakerId": "shanshan",
+        "speechType": "粤语女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "小玥",
+        "speakerId": "xiaoyue",
+        "speechType": "四川话女声"
+      }
+    ]
+  },
+  "plurilingual": {
+    "label": "多语种",
+    "speakers": [
+      {
+        "sampleRate": 16000,
+        "speaker": "智香",
+        "speakerId": "tomoka",
+        "speechType": "日语女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "智也",
+        "speakerId": "tomoya",
+        "speechType": "日语男声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Indah",
+        "speakerId": "indah",
+        "speechType": "印尼女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Farah",
+        "speakerId": "farah",
+        "speechType": "马来语女声"
+      },
+      {
+        "sampleRate": 16000,
+        "speaker": "Tala",
+        "speakerId": "tala",
+        "speechType": "菲律宾语女声"
+      }
+    ]
+  },
+  "custom": {
+    "label": "自定义",
+    "speakers": [
+    ]
+  }
+}
