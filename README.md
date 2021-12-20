@@ -1,3 +1,4 @@
+# 学习两年半的练习生，练手项目！
 ## electron-vue-next + naive-ui开发的阿里语音交互软件
 
 [![screen](https://raw.githubusercontent.com/sundaqiang/VoiceToolbox/main/images/screen.png)](https://github.com/sundaqiang/VoiceToolbox)
